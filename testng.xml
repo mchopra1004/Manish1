@@ -8,10 +8,5 @@
       <class name="pkg.Parallel"/>
     </classes>
     </test>
-      <test name="Test2" >
-  <parameter name="Program" value="https://www.facebook.com"></parameter>
-    <classes>
-      <class name="pkg.Parallel"/>
-    </classes>
-    </test>
+    
 </suite> <!-- Suite -->
